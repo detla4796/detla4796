@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**detla4796/detla4796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,git,obsidian,visualstudio" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, I'm Danil Ushakov! 👋
+
+🎓 A student passionate about programming and building projects during my college studies.  
+🚀 I learn, experiment, and create projects that help me become better at programming.  
+💻 Enthusiastic about development, learning new technologies, and striving for constant growth.
