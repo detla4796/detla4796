@@ -5,10 +5,8 @@
   </a>
 </p>
 
----
+# Hi there, I'm Danil Ushakov! 👋
 
-## Hi there, I'm Danil Ushakov! 👋
-
-🎓 A student passionate about programming and building projects during my college studies.  
-🚀 I learn, experiment, and create projects that help me become better at programming.  
-💻 Enthusiastic about development, learning new technologies, and striving for constant growth.
+🎓 **A student passionate about programming and building projects during my college studies.**  
+🚀 **I learn, experiment, and create projects that help me become better at programming.**
+💻 **Enthusiastic about development, learning new technologies, and striving for constant growth.**
