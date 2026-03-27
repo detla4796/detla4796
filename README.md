@@ -8,3 +8,4 @@ I am a developer focused on learning and building real applications.
 
 I enjoy working across different areas of development and combining them into complete projects.
 
+![](./profile-3d-contrib/profile-night-green.svg)
