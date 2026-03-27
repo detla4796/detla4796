@@ -9,3 +9,8 @@ I am a developer focused on learning and building real applications.
 I enjoy working across different areas of development and combining them into complete projects.
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+---
+
+### My contacts
+<a href="https://discord.com/users/635797340665675797" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/socials/discord.svg" alt="Discord" title="Dircord" width="36" height="36"/></a> <a href="https://t.me/wdymdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Color/Telegram.svg" alt="Telegram" title="Telegram" width="36" height="36" /></a>
